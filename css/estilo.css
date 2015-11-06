@@ -1,0 +1,111 @@
+#navega img{
+	display: inline-block;
+}
+
+#menu{
+display: inline-block;
+
+}
+
+#menu li{
+	display: inline-block;
+	position: relative;
+	margin-left: 2px;
+	margin-bottom: 0px;
+	background: #E67DAF;
+	padding: 15px;
+	color: white;
+	font-weight: bold;
+	border-radius: 15px 5px 0px 0px;
+}
+
+#banner img{
+	width: 100%;
+	margin: 0 auto;
+}
+
+#accion{
+	width: 200px;
+	margin: 0 auto;
+	background: #E4032E; 
+	color: white;
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 10px;
+	
+}
+
+#cventajas{
+	text-align: center;
+}
+
+.ventajas{
+	display: inline-block;
+	margin: 40px;
+	
+}
+
+.ventajas img{
+	width: 200px;
+
+	border-radius: 50%;
+	border: 15px solid #d0d0d0;
+}
+
+.tventajas{
+	font-weight: bold;
+	
+}
+
+#porque{
+	width: 100%;
+	background: #E4032E;
+	padding: 20px;
+	
+}
+
+#tporque{
+	font-weight: bold;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	padding-top: 0px;
+}
+
+#dporque{
+	color: white;
+	padding-right: 40px;
+	padding-left: 40px;
+	text-align: center;
+
+	
+}
+
+#aporque{
+	width: 200px;
+	margin: 0 auto;
+	background: white; 
+	color: red;
+	text-align: center;
+	padding: 20px;
+	font-size: 30px;
+	font-weight: bold;
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+#ccatalogo{
+	text-align: center;
+}
+
+.catalogo{
+	display: inline-block;
+	margin: 20px;
+}
+
+.catalogo img{
+
+	border-radius: 0 20px 0 20px
+}
